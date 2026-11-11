@@ -1,16 +1,21 @@
-## Hi there 👋
+## Daniel Nicolae Ioana
 
-<!--
-**danielnicolae3628/danielnicolae3628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [gymtracker](https://github.com/danielnicolae3628/gymtracker) — a gym progress tracker (React/TypeScript frontend, Node.js/Express/MongoDB backend)
+- A crypto trading bot (in progress)
+
+### Skills
+
+- **Languages:** TypeScript, JavaScript, Go, Python, SQL, PL/SQL
+- **Frontend:** React, Vite
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, SQL Server, Oracle SQL
+- **Tools:** Git, REST APIs
+
+### Contact
+
+- Email: danielnicolae903@gmail.com
+- LinkedIn: [daniel-nicolae-ioana](https://www.linkedin.com/in/daniel-nicolae-ioana-369300202/)
