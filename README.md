@@ -11,7 +11,7 @@ Software Engineer
 
 - **Languages:** TypeScript, JavaScript, Go, Python, SQL, PL/SQL
 - **Frontend:** React, Vite
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, FastAPI
 - **Databases:** MongoDB, SQL Server, Oracle SQL
 - **Tools:** Git, REST APIs
 
