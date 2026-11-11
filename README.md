@@ -5,7 +5,7 @@ Software Engineer
 ### Currently working on
 
 - [gymtracker](https://github.com/danielnicolae3628/gymtracker) — a gym progress tracker (React/TypeScript frontend, Node.js/Express/MongoDB backend)
-- A crypto trading bot (in progress)
+- [tradingbot](https://github.com/danielnicolae3628/tradingbot) — a KuCoin crypto trading bot (Python, KuCoin API, Telegram control)
 
 ### Skills
 
